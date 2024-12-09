@@ -39,7 +39,7 @@ export function AccountInfo(): React.JSX.Element {
       <Divider />
       <CardActions>
         <Button fullWidth variant="text">
-          Upload picture
+          Upload Avatar
         </Button>
       </CardActions>
     </Card>
